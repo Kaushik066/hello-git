@@ -1,0 +1,1 @@
+consol.lig('hello world');
