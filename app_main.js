@@ -1,1 +1,1 @@
-consol.lig('hello world');
+consol.log('hello world');
