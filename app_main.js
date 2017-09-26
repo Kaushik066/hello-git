@@ -1,5 +1,6 @@
 var http = require('http');
 console.log('hello world');
+console.log('new changes made');
 
 // js listening on port 
 http.createServer(function (req, res) {
