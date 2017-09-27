@@ -1,0 +1,23 @@
+{
+  "name": "hello-git",
+  "version": "1.0.0",
+  "description": "this is my first git program",
+  "main": "app_main.js",
+  "dependencies": {
+    "express": "^4.15.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaushik066/hello-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaushik066/hello-git/issues"
+  },
+  "homepage": "https://github.com/Kaushik066/hello-git#readme"
+}
