@@ -1,0 +1,15 @@
+body{
+	font-family: TimesNewRomen;
+	background-color: #dedada;
+ 	margin: 0 auto;
+	}
+.hello{
+	font-family: monospace;
+	background-color: #dedada;
+ 	margin: 0 auto;
+	}
+.container{
+	background-color: #ece5e5;
+	color: indianred;
+        font-style: italic;
+	}
